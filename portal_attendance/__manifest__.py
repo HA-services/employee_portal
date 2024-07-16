@@ -11,7 +11,7 @@
     "maintainer": "Axsync",
     "license" :  "Other proprietary",
     "website": "https://www.axsync.com",
-    "images": ["static/description/portal.png"],
+    "images": ["static/description/icon1.png"],
     "category": "Attendances",
     "depends": [
         "base",
